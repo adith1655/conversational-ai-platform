@@ -1,0 +1,11 @@
+# Deep Learning Conversational AI Platform - MVP
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+httpx>=0.26.0
+python-dotenv>=1.0.0
+
+# LLM providers (install what you need)
+google-genai>=0.2.0  # For Gemini (free tier available)
+openai>=1.12.0  # For OpenAI or Ollama
