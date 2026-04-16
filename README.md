@@ -1,3 +1,5 @@
+<img width="1920" height="1020" alt="Conversational AI — Chat - Personal - Microsoft​ Edge 11-02-2026 10_49_32" src="https://github.com/user-attachments/assets/bc873e4d-09ce-4bb9-bac1-3e757531562f" />
+
 # Deep Learning Conversational AI Platform
 
 MVP implementation: **multi-turn chat** with **short-term memory** and **transformer-based response generation**.
