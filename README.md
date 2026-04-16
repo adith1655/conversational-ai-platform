@@ -1,4 +1,5 @@
-<img width="1920" height="1020" alt="Conversational AI — Chat - Personal - Microsoft​ Edge 11-02-2026 10_49_32" src="https://github.com/user-attachments/assets/bc873e4d-09ce-4bb9-bac1-3e757531562f" />
+<img width="1600" height="776" alt="WhatsApp Image 2026-04-13 at 23 28 35" src="https://github.com/user-attachments/assets/c99d1736-c6fb-4b4b-949e-8c2f25935ee9" />
+
 
 # Deep Learning Conversational AI Platform
 
